@@ -11,7 +11,7 @@
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <Text Include="employee.txt">
+    <Text Include="employees.txt">
       <Filter>Main</Filter>
     </Text>
   </ItemGroup>
